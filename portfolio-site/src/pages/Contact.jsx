@@ -1,8 +1,10 @@
+import './css/Contact.css';
+// contact page component.
 function Contact() {
   return (
     <div>
       <h1>Contact</h1>
-      <div className="contact-info">
+      <div id="contact-info">
         <a href="mailto:radioanne6@gmail.com">Email</a>
         <a href="https://www.linkedin.com/in/marianne-moyo-287b97158/">LinkedIn</a>
         <a href="https://github.com/songblrd">GitHub</a>
